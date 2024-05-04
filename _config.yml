@@ -21,12 +21,12 @@ repository               : "golditewari9/golditewari9.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Goldi.png"
+  avatar           : "profile.png"
   name             : "Goldi Tewari"
   pronouns         : # example: "she"  
   bio              : "I transform numbers into stories. My three-year Data Science journey has taken me from nimble startups to Fortune 100 giants like Nike and Humana in retail and Healthcare sector. With a PhD and a Master’s in the quantitative field, I excel in SQL and Python, create magic with Power BI and Tableau, and am certified in trailblazing platforms like Databricks and IBM cloud."
   location         : "Hillsboro, Oregon"
-  employer         : "N/A"
+  employer         : "Employer N/A"
   uri              : # URL
   email            : "goldi.tewari9@gmail.com" 
 
