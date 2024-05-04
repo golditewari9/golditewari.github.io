@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Goldi Tewari - The Data Scientist"
+title: "Goldi - The Data Scientist"
 permalink: /cv/ 
 author_profile: true
 redirect_from:
