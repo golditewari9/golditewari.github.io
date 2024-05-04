@@ -19,13 +19,13 @@ Education
 
 Work Experience
 ======
-* Data Scientist - Consumer Insights(_Nov 2023 - April 2024_)
+* Data Scientist - Consumer Insights (_Nov 2023 - April 2024_)
   * **Nike, Inc.**, Beaverton, Oregon
 
-* Data Scientist - Pharmacy Marketing Analytics(_May 2022 - Nov 2023_)
+* Data Scientist - Pharmacy Marketing Analytics (_May 2022 - Nov 2023_)
   *  **Humana, Inc.**, Louisville, KY
 
-* Business Analyst(_Sept 2021 - May 2022_)
+* Business Analyst (_Sept 2021 - May 2022_)
   *  **Workrede** (mobile employee engagement cloud platform), Louisville, KY
 
 * Program Manager (_Nov 2018 - Nov 2019_)
@@ -59,8 +59,9 @@ Awards
 * International Erasmus Mundus Scholarship-European Commission 2014
 * International Student and Scholar Award, University of Louisville, KY 2021
 
-Publications
+[Publications](https://scholar.google.com/citations?user=4PJPp0QAAAAJ&hl=en)
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+ [Publication](https://scholar.google.com/citations?user=4PJPp0QAAAAJ&hl=en)
