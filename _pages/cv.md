@@ -9,8 +9,6 @@ redirect_from:
 Checkout my resume in [PDF format](files/Goldi_Tewari_resume.pdf)
 {% include base_path %}
 
-#### Technical Skills: Python, SQL, Databricks, Snowflake, Power BI, Tableau
-
 Education
 ======
 * PhD in Communication Science (Quantitative focus), (_Ghent University, Belgium, 2018_)
@@ -30,7 +28,7 @@ Work Experience
 * Program Manager (_Nov 2018 - Nov 2019_)
   *  **National Institute of Agricultural Extension Management (MANAGE)**, Hyderabad, India
 
-Skills
+Technical Skills
 ======
 * Programming - SQL, Python, R, SPSS
 * Data Visualization - Power BI, Tableau, Amazon QuickSight
