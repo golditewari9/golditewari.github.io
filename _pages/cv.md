@@ -7,7 +7,6 @@ redirect_from:
   - /resume
 ---
 Checkout my resume in [PDF format](files/Goldi_Tewari_resume.pdf)
-{% include base_path %}
 
 Education
 ======
