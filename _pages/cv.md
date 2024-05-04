@@ -16,16 +16,16 @@ Education
 
 Work experience
 ======
-* Data Scientist - Consumer Insights (contract), Nov 2023 - April 2024
+* Data Scientist - Consumer Insights                                                      Nov 2023 - April 2024
   * Nike, Inc., Beaverton, Oregon
 
-* Data Scientist - Pharmacy Marketing Analytics (contract), May 2022 - Nov 2023
+* Data Scientist - Pharmacy Marketing Analytics                                           May 2022 - Nov 2023
   * Humana, Inc., Louisville, KY
 
-* Business Analyst, Sept 2021 - May 2022
+* Business Analyst                                                                        Sept 2021 - May 2022
   * Workrede (a mobile employee engagement cloud platform), Louisville, KY
 
-* Program Manager, Nov 2018 - Nov 2019
+* Program Manager                                                                         Nov 2018 - Nov 2019
   * National Institute of Agricultural Extension Management (MANAGE), Hyderabad, India
 
 Skills
