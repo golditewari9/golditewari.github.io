@@ -1,9 +1,9 @@
 # main links links
 main:
-- title: "Sample Power BI Dashboard"
+  - title: "Sample Power BI Dashboard"
     url: /goldipowerbidashboard/
     
-- title: "Sample Tableau Dashboard"
+  - title: "Sample Tableau Dashboard"
     url: /golditableaudashboard/
 
   - title: "Publications"
