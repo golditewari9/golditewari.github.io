@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-Checkout my resume in [PDF format](files/Goldi_Tewari_resume.pdf)
+Checkout my resume in [PDF format](https://github.com/golditewari9/golditewari9.github.io/blob/master/files/Goldi_Tewari_resume.pdf)
 
 Education
 ======
