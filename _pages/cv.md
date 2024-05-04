@@ -16,6 +16,15 @@ Education
 
 Work Experience
 ======
+| exp 1 | time |
+| ----- | ---- |
+| Data Scientist - Consumer Insights          |  Nov 2023 - April 2024       |
+| Data Scientist - Pharmacy Marketing Analytics           |   May 2022 - Nov 2023      |
+|            |          |
+|            |          |
+
+
+
 * Data Scientist - Consumer Insights                                                      Nov 2023 - April 2024
   * Nike, Inc., Beaverton, Oregon
 
