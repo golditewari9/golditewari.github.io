@@ -39,9 +39,10 @@ Skills
 
 Notable Projects
 ======
-* Dashboard bulding Build Power BI and Tableau dashboard on various retail and healthcare metrics
-* Predictive Modeling. Developed a model predicting COVID-19 vaccine hesitancy among Humana members, ranked among the top 50 nationwide.
-* Experimental Research. Conducted 3 experimental research projects across US, Belgian and Indian consumers. Modeled and published results on how companies should frame messages during a crisis.
+* Dashboard - Built Power BI and Tableau dashboard on various retail and healthcare metrics
+* Predictive Modeling - Developed a model predicting COVID-19 vaccine hesitancy among Humana members, ranked among the top 50 nationwide.
+* Experimental Research - Conducted 3 experimental research projects across US, Belgian and Indian consumers. Modeled and published 
+  results on how companies should frame messages during a crisis.
 
 Talks/Conference 
 ======
