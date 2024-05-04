@@ -14,7 +14,7 @@ Education
 * PhD in Communication Science (Quantitative focus), Ghent University, Belgium, 2018
 * Professional M.S. in Business Analytics, University of Louisville, Kentucky, USA, 2022
 
-Work experience
+Work Experience
 ======
 * Data Scientist - Consumer Insights                                                      Nov 2023 - April 2024
   * Nike, Inc., Beaverton, Oregon
