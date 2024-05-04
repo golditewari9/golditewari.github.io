@@ -47,7 +47,7 @@ Notable Projects
 Talks/Conference 
 ======
 * Team Leader-Humana-Mays Healthcare Analytics Case Competition 2021.
-* Finalist speaker-TedX Ghent PhD Contest 2017 video
+* Finalist speaker-TedX Ghent PhD Contest 2017
 * Presenter-The European Marketing Academy Conference (EMAC), 2016, Oslo, Norway.
 * Presenter-The Etmaal van de Communicatiewetenschap (ETMAAL) Feb 4-5, 2016, Amsterdam.
 
