@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Goldi Tewari"
+title: "Goldi Tewari - Data Scientist"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,7 +8,6 @@ redirect_from:
 ---
 Checkout my resume in [PDF format](files/Goldi_Tewari_resume.pdf)
 {% include base_path %}
-# Data Scientist
 
 #### Technical Skills: Python, SQL, Databricks, Snowflake, Power BI, Tableau
 
