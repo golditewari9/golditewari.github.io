@@ -44,12 +44,12 @@ Notable Projects
 ======
 * Dashboard - Built Power BI and Tableau dashboard on various retail and healthcare metrics
 * Predictive Modeling - Developed a model predicting COVID-19 vaccine hesitancy among Humana members, ranked among the top 50 nationwide.
-* Experimental Research - Conducted 3 experimental research projects across US, Belgian and Indian consumers. Modeled and [published]results(https://research.ugent.be/web/person/goldi-tewari-0/publications/en) on how companies should frame messages during a crisis.
+* Experimental Consumer Research - Conducted 3 experimental research projects across US, Belgian and Indian consumers. Structured Equation Modeling was done & [published results](https://research.ugent.be/web/person/goldi-tewari-0/publications/en) on how companies should frame messages during a crisis.
 
 Talks/Conference 
 ======
 * Team Leader-Humana-Mays Healthcare Analytics Case Competition 2021.
-* Finalist speaker-TedX Ghent PhD Contest 2017 [video link (https://www.youtube.com/watch?v=I4zH7b1dqTE)
+* Finalist speaker-TedX Ghent PhD Contest 2017 [video link] (https://www.youtube.com/watch?v=I4zH7b1dqTE)
 * Presenter-The European Marketing Academy Conference (EMAC), 2016, Oslo, Norway.
 * Presenter-The Etmaal van de Communicatiewetenschap (ETMAAL) Feb 4-5, 2016, Amsterdam.
 
