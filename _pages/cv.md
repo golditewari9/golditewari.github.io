@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Goldi Tewari - Data Scientist"
-permalink: /cv/
+title: "Goldi Tewari - The Data Scientist"
+permalink: /cv/ 
 author_profile: true
 redirect_from:
   - /resume
