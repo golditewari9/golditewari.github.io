@@ -11,30 +11,21 @@ redirect_from:
 
 Education
 ======
-* PhD in Communication Science (Quantitative focus), Ghent University, Belgium, 2018
-* Professional M.S. in Business Analytics, University of Louisville, Kentucky, USA, 2022
+* PhD in Communication Science (Quantitative focus), (_Ghent University, Belgium, 2018_)
+* Professional M.S. in Business Analytics, (_University of Louisville, Kentucky, USA, 2022_)
 
 Work Experience
 ======
-| exp 1 | time |
-| ----- | ---- |
-| Data Scientist - Consumer Insights          |  Nov 2023 - April 2024       |
-| Data Scientist - Pharmacy Marketing Analytics           |   May 2022 - Nov 2023      |
-|            |          |
-|            |          |
-
-
-
-* Data Scientist - Consumer Insights                                                      Nov 2023 - April 2024
+* Data Scientist - Consumer Insights                                                      (_Nov 2023 - April 2024_)
   * Nike, Inc., Beaverton, Oregon
 
-* Data Scientist - Pharmacy Marketing Analytics                                           May 2022 - Nov 2023
+* Data Scientist - Pharmacy Marketing Analytics                                           (_May 2022 - Nov 2023_)
   * Humana, Inc., Louisville, KY
 
-* Business Analyst                                                                        Sept 2021 - May 2022
+* Business Analyst                                                                        (_Sept 2021 - May 2022_)
   * Workrede (a mobile employee engagement cloud platform), Louisville, KY
 
-* Program Manager                                                                         Nov 2018 - Nov 2019
+* Program Manager                                                                         (_Nov 2018 - Nov 2019_)
   * National Institute of Agricultural Extension Management (MANAGE), Hyderabad, India
 
 Skills
