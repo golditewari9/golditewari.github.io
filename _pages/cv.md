@@ -61,7 +61,3 @@ Awards
 
 [Publications](https://scholar.google.com/citations?user=4PJPp0QAAAAJ&hl=en)
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
- [Publication](https://scholar.google.com/citations?user=4PJPp0QAAAAJ&hl=en)
