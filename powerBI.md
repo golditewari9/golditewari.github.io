@@ -1,5 +1,5 @@
 ---
-title: "Goldi's Power BI sample dashboard"
+title: "Goldi's Power BI dashboard"
 excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
