@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-Checkout my CV in [PDF](files/Goldi_Tewari_resume.pdf)
+Checkout my CV in [PDF format](files/Goldi_Tewari_resume.pdf)
 {% include base_path %}
 # Data Scientist
 
