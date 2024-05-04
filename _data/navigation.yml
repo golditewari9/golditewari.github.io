@@ -1,16 +1,5 @@
 # main links links
-main:
-  - title: "Sample Power BI Dashboard"
-    url: /goldipowerbidashboard/
-    
-  - title: "Sample Tableau Dashboard"
-    url: /golditableaudashboard/
-
-  - title: "Publications"
-    url: /publications/
-
-  - title: "Talks"
-    url: /talks/       
+main:     
     
   - title: "Portfolio"
     url: /portfolio/
@@ -18,5 +7,11 @@ main:
   - title: "CV"
     url: /cv/
     
-  - title: "Guide"
+  - title: "Code samples (SQL, Python)"
     url: /markdown/
+
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Talks"
+    url: /talks/  
