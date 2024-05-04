@@ -13,8 +13,8 @@ title_separator          : "-"
 name                     : &name "Goldi Tewari"
 description              : &description "Data Scientist"
 url                      : https://golditewari.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "golditewari" # the subpath of your site, e.g. "/blog"
-repository               : "golditewari/golditewari.github.io"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
+repository               : "golditewari9/golditewari9.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
