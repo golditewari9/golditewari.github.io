@@ -8,6 +8,9 @@ redirect_from:
 ---
 
 {% include base_path %}
+# Data Scientist
+
+#### Technical Skills: Python, SQL, Databricks, Snowflake, Power BI, Tableau
 
 Education
 ======
