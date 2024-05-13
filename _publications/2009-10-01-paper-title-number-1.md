@@ -3,7 +3,7 @@ title: "Effective Risk and Crisis Communication: Evaluating Message Framing"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about helping organisations with effective risk & crisis strategies'
-date: 2024
+date: 2018-12-21
 venue: 'Ghent University'
 paperurl: 'https://scholar.google.com/citations?view_op=view_citation&hl=en&user=4PJPp0QAAAAJ&citation_for_view=4PJPp0QAAAAJ:IjCSPb-OGe4C'
 ---
